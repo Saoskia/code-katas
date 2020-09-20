@@ -11,6 +11,7 @@ My solutions for code katas I attempt on Code Wars.
 ### 7 kyu
 
 - [Credit card mask](./7kyu/credit-card-mask.js) [(kata)](https://www.codewars.com/kata/5412509bd436bd33920011bc/javascript)
+- [Get the middle character](./7kyu/get-the-middle-character.js) [(kata)](https://www.codewars.com/kata/56747fd5cb988479af000028)
 - [Highest and Lowest](./7kyu/highest-and-lowest.js) [(kata)](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 - [How many arguments](./7kyu/how-many-arguments.js) [(kata)](https://www.codewars.com/kata/5c44b0b200ce187106452139)
 - [Square Every Digit](./7kyu/square-every-digit.js) [(kata)](https://www.codewars.com/kata/546e2562b03326a88e000020)
